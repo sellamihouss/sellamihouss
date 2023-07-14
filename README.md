@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 #### Languages and Tools
 Here are some of the languages and tools I work with:
 
-<p align="left">
+<p align="center">
   <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
   <img src="https://www.skillreactor.io/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
