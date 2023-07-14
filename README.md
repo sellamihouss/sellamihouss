@@ -32,7 +32,7 @@ Here are some of the languages and tools I work with:
   <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" height="40" style="vertical-align:top; margin:4px">
   
 </p>
-
+<div align="center">
 📉 My Github Stats:
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sellamihouss&show_icons=true&theme=shadow_green)
@@ -42,3 +42,4 @@ Here are some of the languages and tools I work with:
 <br/>
 
 Happy coding! 😄
+</div>
