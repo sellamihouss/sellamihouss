@@ -27,8 +27,7 @@ Here are some of the languages and tools I work with:
 </p>
 
 📉 My Github Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sellamihouss&theme=shadow_green)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sellamihouss&show_icons=true&theme=radical)
 Feel free to explore my repositories and reach out if you have any questions or suggestions.
 
 Happy coding! 😄
