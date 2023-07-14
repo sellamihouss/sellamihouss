@@ -8,8 +8,7 @@ Welcome to my GitHub profile!
 - 👯 I’m looking to collaborate on open-source projects or any interesting web development projects.
 - 💬 Ask me about JavaScript, HTML, CSS, ReactJS, Bootstrap, Tailwind CSS, or any web development-related topics.
 - 📫 How to reach me: [insert your contact information here, such as email or social media profiles].
-- 😄 Pronouns: [insert your preferred pronouns here].
-- ⚡ Fun fact: [insert a fun fact about yourself or an interesting hobby].
+
 
 #### Languages and Tools
 Here are some of the languages and tools I work with:
