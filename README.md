@@ -29,7 +29,7 @@ Here are some of the languages and tools I work with:
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" height="40" style="vertical-align:top; margin:4px">
 
   <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp" alt="next" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png" alt="next" height="40" style="vertical-align:top; margin:4px">
   
   <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="next" height="40" style="vertical-align:top; margin:4px">
   
@@ -37,6 +37,7 @@ Here are some of the languages and tools I work with:
 
 📉 My Github Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sellamihouss&show_icons=true&theme=shadow_green)
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sellamihouss)](https://git.io/streak-stats)
 Happy coding! 😄
