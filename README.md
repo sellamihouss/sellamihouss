@@ -34,13 +34,12 @@ Here are some of the languages and tools I work with:
 </p>
 <div align="center">
 📉 My Github Stats:
-<br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sellamihouss)](https://github.com/sellamihouss/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sellamihouss&show_icons=true&theme=shadow_green)
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sellamihouss)](https://git.io/streak-stats)
-<br/>
+
 
 Happy coding! 😄
 </div>
