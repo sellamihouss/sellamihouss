@@ -24,6 +24,12 @@ Here are some of the languages and tools I work with:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="Sass" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" alt="node" height="40" style="vertical-align:top; margin:4px">
+  
+  <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="mongo" height="40" style="vertical-align:top; margin:4px">
+
+  <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="mongo" height="40" style="vertical-align:top; margin:4px">
+  
 </p>
 
 📉 My Github Stats:
