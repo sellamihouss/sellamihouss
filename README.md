@@ -35,6 +35,7 @@ Here are some of the languages and tools I work with:
 <div align="center">
 📉 My Github Stats:
 <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sellamihouss)](https://github.com/sellamihouss/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sellamihouss&show_icons=true&theme=shadow_green)
 <br/>
 
