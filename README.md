@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - 🌱 I’m currently learning new technologies and frameworks to enhance my development expertise.
 - 👯 I’m looking to collaborate on open-source projects or any interesting web development projects.
 - 💬 Ask me about JavaScript, HTML, CSS, ReactJS, Bootstrap, Tailwind CSS, or any web development-related topics.
-- 📫 How to reach me: [insert your contact information here, such as email or social media profiles].
+- 📫 How to reach me: https://www.linkedin.com/in/houssem-sellami-127995147/
 
 
 #### Languages and Tools
